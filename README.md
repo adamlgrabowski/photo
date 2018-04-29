@@ -1,2 +1,1 @@
-# portfolio
-my photography portfolio
+#IF YOU'RE SEEING THIS, SOMETHING'S WRONG
